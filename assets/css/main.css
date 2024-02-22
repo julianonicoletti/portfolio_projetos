@@ -37,6 +37,12 @@ body {
 	line-height: 1.3rem;
 }
 
+.primeiro_ul {
+	font-size: 80%;
+	line-height: 1.4rem;
+}
+
+
 ol, ul {
 	list-style: none;
 }
@@ -221,6 +227,7 @@ input, select, textarea {
 		padding: 0.25em 0.65em;
 	}
 
+	
 	pre {
 		-webkit-overflow-scrolling: touch;
 		font-family: "Courier New", monospace;
